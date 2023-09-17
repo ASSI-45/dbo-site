@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Stoner";
+  font-weight: 400;
+  font-style: normal;
+  font-display: auto;
+  unicode-range: U+000-5FF;
+  src: local("Stoner"), url("/fonts/Stoner.tff") format("ttf"), url("/fonts/Stoner.ttf") format("tff");
+}
+
